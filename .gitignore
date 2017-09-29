@@ -11,6 +11,7 @@ update_repo_template.sh
 /build/
 /dist/
 obj/
+Debug/
 
 proj.X/nbproject/private/SuppressibleMessageMemo.properties
 proj.X/nbproject/private/configurations.xml
@@ -69,7 +70,6 @@ log*.txt
 *.pydevproject
 .project
 .metadata
-bin/
 tmp/
 *.swp
 *~.nib
